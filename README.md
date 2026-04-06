@@ -321,7 +321,7 @@ end</code></pre>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>The <a href="#">MIMERCode_User_Manual.md</a> covers everything from Hello World to choropleth maps, with complete property references for every GUI widget. 
+<p>The <a href="MIMERCode_User_Manual.md">MIMERCode User Manual</a> covers everything from Hello World to choropleth maps, with complete property references for every GUI widget. 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
